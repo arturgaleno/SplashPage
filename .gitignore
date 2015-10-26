@@ -42,7 +42,7 @@ target/
 local.properties
 .settings/
 .loadpath
-
+.tern-project
 # Eclipse Core
 .project
 

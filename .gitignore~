@@ -34,6 +34,7 @@ hs_err_pid*
 .gradle
 bin/
 tmp/
+target/
 *.tmp
 *.bak
 *.swp
@@ -41,7 +42,7 @@ tmp/
 local.properties
 .settings/
 .loadpath
-
+.tern-project
 # Eclipse Core
 .project
 
