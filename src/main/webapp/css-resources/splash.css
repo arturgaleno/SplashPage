@@ -1,0 +1,37 @@
+.form_subheader {
+    max-width: 35pc;
+    display: block;
+	font-size: 1.3rem;
+	line-height: 28px;
+	margin: 40px auto 22px;
+	padding: 0px;
+	width: 100%;
+	background: transparent none repeat scroll 0px 0px;
+}
+
+.input_email {
+	margin-right: 7px !important;
+	margin-left: 14px !important;
+	margin-bottom: 0px;
+	font-size: 1.176rem;
+	padding: 0.7rem;
+	line-height: normal;
+	padding: 0.75rem;
+	border: 1px solid #C5C5C5;
+	border-radius: 0.25rem;
+	-moz-appearance: none;
+	outline: 0px none;
+	color: #555459;
+	max-width: 100%;
+	margin: 0px 0px 0.5rem;
+	transition: box-shadow 70ms ease-out 0s, border-color 70ms ease-out 0s;
+	box-shadow: none;
+	height: auto;
+}
+
+.centered {
+  position:absolute;
+  left: 50%;
+  top: 50%;
+  transform: translateY(-15%) translateX(15%);
+}
