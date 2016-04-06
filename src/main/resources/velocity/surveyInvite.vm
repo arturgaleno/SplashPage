@@ -1,0 +1,15 @@
+<html>
+    <head>
+      <title>Thanks for your email! :)</title>
+    </head>
+
+    <body>
+     <center>
+      	<p> Now we invite you to answer quick questions about your expectations about us.</p>
+      	</br>
+      	<p>Please, take a while, and follow this link: <a href="$surveyLink"><b>survey</b></a></p>
+     </center>
+     Thanks,
+     SplashPage Team
+    </body>
+</html>
