@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="SplashPage:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="br.com.artur.war">
-      <element id="artifact" artifact-name="SplashPage:war exploded" />
-    </root>
-  </artifact>
-</component>
